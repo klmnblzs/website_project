@@ -1,3 +1,4 @@
+
 <?php
 class Config{
     static string $title = "Something";
